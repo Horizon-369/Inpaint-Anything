@@ -17,3 +17,15 @@ kornia==0.5.0
 webdataset
 packaging
 wldhx.yadisk-direct
+torch==1.11.0
+torchvision==0.12.0
+torchaudio
+torchtext==0.6.0
+pytorch_lightning==1.9.4
+timm
+segment_anything @ file://<path_to_segment_anything_directory>
+diffusers
+transformers
+accelerate
+scipy
+safetensors
