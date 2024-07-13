@@ -23,7 +23,7 @@ torchaudio
 torchtext==0.6.0
 pytorch_lightning==1.9.4
 timm
-segment_anything @ git+https://github.com/Horizon-369/Inpaint-Anything.git@main
+-e git+https://github.com/Horizon-369/Inpaint-Anything.git@main#egg=segment-anything
 diffusers
 transformers
 accelerate
