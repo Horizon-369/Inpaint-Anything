@@ -27,3 +27,4 @@ transformers
 accelerate
 scipy
 safetensors
+gdown
