@@ -16,8 +16,8 @@ kornia==0.5.0
 webdataset
 packaging
 wldhx.yadisk-direct
-torch==1.11.0
-torchvision==0.12.0
+torch==1.11.0+cu113
+torchvision==0.12.0+cu113
 torchaudio
 torchtext==0.6.0
 pytorch_lightning==1.9.4
@@ -29,4 +29,4 @@ scipy
 safetensors
 gdown
 -e ./segment_anything
-
+segment_anything
